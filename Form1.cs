@@ -229,41 +229,9 @@ namespace Tic_Tac_Toe_Game
         }
        
         //Game X O Click Controllers 
-        private void pbQuestion1_Click(object sender, EventArgs e)
+        private void pbQuestion_Click(object sender, EventArgs e)
         {
                 PlayGame(sender);
-        }
-        private void pbQuestion2_Click(object sender, EventArgs e)
-        {
-            PlayGame(sender);
-        }
-        private void pbQuestion4_Click(object sender, EventArgs e)
-        {
-            PlayGame(sender);
-        }
-        private void pbQuestion8_Click(object sender, EventArgs e)
-        {
-            PlayGame(sender);
-        }
-        private void pbQuestion16_Click(object sender, EventArgs e)
-        {
-            PlayGame(sender);
-        }
-        private void pbQuestion32_Click(object sender, EventArgs e)
-        {
-            PlayGame(sender);
-        }
-        private void pbQuestion64_Click(object sender, EventArgs e)
-        {
-            PlayGame(sender);
-        }
-        private void pbQuestion128_Click(object sender, EventArgs e)
-        {
-            PlayGame(sender);
-        }
-        private void pbQuestion256_Click(object sender, EventArgs e)
-        {
-            PlayGame(sender);
         }
 
         //Reset button

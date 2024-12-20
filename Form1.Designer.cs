@@ -116,7 +116,7 @@
             this.pbQuestion128.TabIndex = 14;
             this.pbQuestion128.TabStop = false;
             this.pbQuestion128.Tag = "128";
-            this.pbQuestion128.Click += new System.EventHandler(this.pbQuestion128_Click);
+            this.pbQuestion128.Click += new System.EventHandler(this.pbQuestion_Click);
             // 
             // pbQuestion256
             // 
@@ -129,7 +129,7 @@
             this.pbQuestion256.TabIndex = 13;
             this.pbQuestion256.TabStop = false;
             this.pbQuestion256.Tag = "256";
-            this.pbQuestion256.Click += new System.EventHandler(this.pbQuestion256_Click);
+            this.pbQuestion256.Click += new System.EventHandler(this.pbQuestion_Click);
             // 
             // pbQuestion32
             // 
@@ -142,7 +142,7 @@
             this.pbQuestion32.TabIndex = 12;
             this.pbQuestion32.TabStop = false;
             this.pbQuestion32.Tag = "32";
-            this.pbQuestion32.Click += new System.EventHandler(this.pbQuestion32_Click);
+            this.pbQuestion32.Click += new System.EventHandler(this.pbQuestion_Click);
             // 
             // pbQuestion8
             // 
@@ -155,7 +155,7 @@
             this.pbQuestion8.TabIndex = 11;
             this.pbQuestion8.TabStop = false;
             this.pbQuestion8.Tag = "8";
-            this.pbQuestion8.Click += new System.EventHandler(this.pbQuestion8_Click);
+            this.pbQuestion8.Click += new System.EventHandler(this.pbQuestion_Click);
             // 
             // pbQuestion64
             // 
@@ -168,7 +168,7 @@
             this.pbQuestion64.TabIndex = 10;
             this.pbQuestion64.TabStop = false;
             this.pbQuestion64.Tag = "64";
-            this.pbQuestion64.Click += new System.EventHandler(this.pbQuestion64_Click);
+            this.pbQuestion64.Click += new System.EventHandler(this.pbQuestion_Click);
             // 
             // pbQuestion16
             // 
@@ -181,7 +181,7 @@
             this.pbQuestion16.TabIndex = 9;
             this.pbQuestion16.TabStop = false;
             this.pbQuestion16.Tag = "16";
-            this.pbQuestion16.Click += new System.EventHandler(this.pbQuestion16_Click);
+            this.pbQuestion16.Click += new System.EventHandler(this.pbQuestion_Click);
             // 
             // pbQuestion4
             // 
@@ -194,7 +194,7 @@
             this.pbQuestion4.TabIndex = 8;
             this.pbQuestion4.TabStop = false;
             this.pbQuestion4.Tag = "4";
-            this.pbQuestion4.Click += new System.EventHandler(this.pbQuestion4_Click);
+            this.pbQuestion4.Click += new System.EventHandler(this.pbQuestion_Click);
             // 
             // pbQuestion2
             // 
@@ -207,7 +207,7 @@
             this.pbQuestion2.TabIndex = 7;
             this.pbQuestion2.TabStop = false;
             this.pbQuestion2.Tag = "2";
-            this.pbQuestion2.Click += new System.EventHandler(this.pbQuestion2_Click);
+            this.pbQuestion2.Click += new System.EventHandler(this.pbQuestion_Click);
             // 
             // pbQuestion1
             // 
@@ -220,7 +220,7 @@
             this.pbQuestion1.TabIndex = 6;
             this.pbQuestion1.TabStop = false;
             this.pbQuestion1.Tag = "1";
-            this.pbQuestion1.Click += new System.EventHandler(this.pbQuestion1_Click);
+            this.pbQuestion1.Click += new System.EventHandler(this.pbQuestion_Click);
             // 
             // btnRest
             // 
